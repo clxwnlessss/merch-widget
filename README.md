@@ -29,3 +29,8 @@
 
 ## Планування та публікація
 План, беклог, відповідальні та навчальна модель окупності: [docs/PROJECT_MANAGEMENT.md](docs/PROJECT_MANAGEMENT.md). Публікація Pages виконується лише після успішних тестів через .github/workflows/pages.yml.
+
+## Посилання
+- Сайт: https://clxwnlessss.github.io/merch-widget/
+- Дошка: https://github.com/users/clxwnlessss/projects/1
+- [Звіт з управління проєктом зі скріншотами](docs/Upravlinnia_proiektom.pdf)
