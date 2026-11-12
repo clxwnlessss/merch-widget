@@ -7,7 +7,8 @@
     "stage": "Етап 1",
     "due": "2026-11-16",
     "status": "Done",
-    "result": "Описано функції, навчальні ціни, обмеження і критерії готовності."
+    "result": "Описано функції, навчальні ціни, обмеження і критерії готовності.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/1"
   },
   {
     "id": "MW-02",
@@ -17,7 +18,8 @@
     "stage": "Етап 1",
     "due": "2026-11-17",
     "status": "Done",
-    "result": "Відокремлені domain, application, view, export і composition root; циклів немає."
+    "result": "Відокремлені domain, application, view, export і composition root; циклів немає.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/2"
   },
   {
     "id": "MW-03",
@@ -27,7 +29,8 @@
     "stage": "Етап 1",
     "due": "2026-11-18",
     "status": "Done",
-    "result": "100 футболок і 5 банерів дають 220 шоперів та 10 100 грн; невалідні дані відхиляються."
+    "result": "100 футболок і 5 банерів дають 220 шоперів та 10 100 грн; невалідні дані відхиляються.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/3"
   },
   {
     "id": "MW-04",
@@ -36,8 +39,9 @@
     "estimate": 8,
     "stage": "Етап 1",
     "due": "2026-11-19",
-    "status": "In review",
-    "result": "Форма показує всі матеріали; українські підписи читабельні; браузерний сценарій проходить."
+    "status": "Done",
+    "result": "Форма показує всі матеріали; українські підписи читабельні; браузерний сценарій проходить.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/4"
   },
   {
     "id": "MW-05",
@@ -47,7 +51,8 @@
     "stage": "Етап 1",
     "due": "2026-11-20",
     "status": "In review",
-    "result": "Заявка має номер, дату, компанію та підсумок; перевірено системний друк."
+    "result": "Заявка має номер, дату, компанію та підсумок; перевірено системний друк.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/5"
   },
   {
     "id": "MW-06",
@@ -57,7 +62,8 @@
     "stage": "Етап 1",
     "due": "2026-11-20",
     "status": "Done",
-    "result": "Усі 9 тестів проходять локально й у CI."
+    "result": "Усі 9 тестів проходять локально й у CI.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/6"
   },
   {
     "id": "MW-07",
@@ -66,8 +72,9 @@
     "estimate": 6,
     "stage": "Етап 2",
     "due": "2026-11-23",
-    "status": "In progress",
-    "result": "GitHub Actions завершено успішно; HTTPS-сторінка доступна; публічність погоджено власником."
+    "status": "Done",
+    "result": "GitHub Actions завершено успішно; HTTPS-сторінка доступна; публічність погоджено власником.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/7"
   },
   {
     "id": "MW-08",
@@ -77,7 +84,8 @@
     "stage": "Етап 2",
     "due": "2026-11-24",
     "status": "Todo",
-    "result": "Перевірено ширини 360 і 768 px, клавіатуру, підписи та повідомлення помилок."
+    "result": "Перевірено ширини 360 і 768 px, клавіатуру, підписи та повідомлення помилок.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/8"
   },
   {
     "id": "MW-09",
@@ -87,7 +95,8 @@
     "stage": "Етап 2",
     "due": "2026-11-26",
     "status": "Todo",
-    "result": "Щонайменше 3 добровольці проходять сценарій; збережено знеособлені висновки та перелік дефектів."
+    "result": "Щонайменше 3 добровольці проходять сценарій; збережено знеособлені висновки та перелік дефектів.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/9"
   },
   {
     "id": "MW-10",
@@ -96,7 +105,8 @@
     "estimate": 4,
     "stage": "Етап 2",
     "due": "2026-11-27",
-    "status": "In progress",
-    "result": "Є README, план робіт, дошка, модель окупності й звіт PDF; відокремлено оцінки від фактів."
+    "status": "Done",
+    "result": "Є README, план робіт, дошка, модель окупності й звіт PDF; відокремлено оцінки від фактів.",
+    "issueUrl": "https://github.com/clxwnlessss/merch-widget/issues/10"
   }
 ]
